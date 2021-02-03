@@ -1,1 +1,1 @@
-"# bro-guide" 
+This project was created with Ionic React
