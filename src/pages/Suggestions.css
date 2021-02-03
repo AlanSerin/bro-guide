@@ -1,0 +1,7 @@
+.textarea{
+    border: solid 1px rgb(247, 247, 247);
+    border-radius: 8px;
+    box-shadow: 1px 4px 8px rgb(226, 226, 226);
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

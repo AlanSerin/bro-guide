@@ -1,0 +1,9 @@
+.dflex{
+    display: flex;
+}
+ion-item{
+    margin-bottom: 1rem;
+}
+.ingcard{
+    background-color: white;
+}

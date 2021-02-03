@@ -1,0 +1,7 @@
+{
+  "name": "Bro_Guide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

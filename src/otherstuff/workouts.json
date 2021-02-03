@@ -1,0 +1,367 @@
+{
+    "Day":"0",
+    "PPl": [
+        {
+            "DeadLifts" : {
+                "title":"DeadLifts",
+                "details": [1,"5+"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Seated Cable Rows" : {
+                "title":"Seated Cable Rows",
+                "details" : [3,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Pulldowns/Chinups" : {
+                "title":"Pulldowns/Chinups",
+                "details" : [3,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Face Pulls" : {
+                "title":"Face Pulls",
+                "details" : [5,"15-20"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Hammer Curls" : {
+                "title":"Hammer Curls",
+                "details" : [4,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Dumbell Curls" : {
+                "title":"Dumbell Curls",
+                "details" : [4,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Bench Press" : {
+                "title":"Bench Press",
+                "details":[4,"5"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Overhead Press" : {
+                "title":"Overhead Press",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Incline Dumbbell Press" : {
+                "title":"Incline Dumbell Press",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Triceps Pushdowns" : {
+                "title":"Tricep Pushdowns",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Lat Raises" : {
+                "title":"Lat Raises",
+                "details":[3,"15-20"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Overhead Tri Extends" : {
+                "title":"Overhead Tri Extends",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Squat" : {
+                "title":"Squat",
+                "details":[2,"5"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Romanian Deadlift" : {
+                "title":"Romanian Deadlift",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Leg Press" : {
+                "title":"Leg Press",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Leg Curls" : {
+                "title":"Leg Curls",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Calf Raises" : {
+                "title":"Calf Raises",
+                "details":[5,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            }
+        }   
+    ],
+    "5x5": [
+        {
+            "Squats" : {
+                "title":"Squats",
+                "details": [5,"5"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Bench Press" : {
+                "title":"Bench Press",
+                "details" : [5,"5"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Barbell Rows" : {
+                "title":"Barbell Rows",
+                "details" : [5,"5"],
+                "image" :  "assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Squats" : {
+                "title":"Squats",
+                "details": [5,"5"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Overhead Press" : {
+                "title":"Overhead Press",
+                "details" : [5,"5"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Deadlift" : {
+                "title":"Deadlift",
+                "details" : [5,"5"],
+                "image" :  "assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Squats" : {
+                "title":"Squats",
+                "details": [5,"5"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Bench Press" : {
+                "title":"Bench Press",
+                "details" : [5,"5"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Barbell Rows" : {
+                "title":"Barbell Rows",
+                "details" : [5,"5"],
+                "image" :  "assets/images/deadlift.jpg"
+            }
+        }   
+    ],
+    "brosplits": [
+        {
+            "Flat barbell bench press" : {
+                "title":"Flat barbell bench press",
+                "details": [4,"6-8"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Incline dumbbell press" : {
+                "title":"Incline dumbbell press",
+                "details" : [4,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Plyometric push-ups" : {
+                "title":"Plyometric push-ups",
+                "details" : [4,"10-20"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Low cable chest fly" : {
+                "title":"Low cable chest fly",
+                "details" : [3,"15-25"],
+                "image" :  "assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Deadlifts" : {
+                "title":"Deadlifts",
+                "details":[4,"8"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Pull-ups/Chin-ups" : {
+                "title":"Pull-ups/Chin-ups",
+                "details":[4,"5-10"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Single-arm dumbbell row" : {
+                "title":"Single-arm dumbbell row",
+                "details":[4,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Seated cable rows" : {
+                "title":"Seated cable rows",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Overhead barbell press" : {
+                "title":"Overhead barbell press",
+                "details":[4,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Dumbbell overhead press" : {
+                "title":"Dumbbell overhead press",
+                "details":[4,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Standing barbell shrugs" : {
+                "title":"Standing barbell shrugs",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Lateral shoulder raises" : {
+                "title":"Lateral cable shoulder raises",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Face pulls" : {
+                "title":"Calf Raises",
+                "details":[3,"15-20"],
+                "image":"assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Barbell Squats" : {
+                "title":"Barbell Squats",
+                "details":[4,"6-10"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Glute-ham raises" : {
+                "title":"Glute-ham raises",
+                "details":[4,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Hack squats" : {
+                "title":"Hack squats",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Lying hamstring curls" : {
+                "title":"Lying hamstring curls",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Seated leg extensions" : {
+                "title":"Seated leg extensions",
+                "details":[2,"15-20"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Machine calf raises" : {
+                "title":"Machine calf raises",
+                "details":[3,"15-20"],
+                "image":"assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "EZ-bar bicep curls" : {
+                "title":"EZ-bar bicep curls",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Close-grip bench press" : {
+                "title":"Glute-ham raises",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Dumbbell hammer curl" : {
+                "title":"Hack squats",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Rope cable tricep extension" : {
+                "title":"Lying hamstring curls",
+                "details":[3,"8-12"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Overhead tricep extension" : {
+                "title":"Overhead tricep extension",
+                "details":[3,"15-20"],
+                "image":"assets/images/deadlift.jpg"
+            },
+            "Plate pinches " : {
+                "title":"Plate pinches ",
+                "details":[3,"30 seconds (per hand)"],
+                "image":"assets/images/deadlift.jpg"
+            }
+        }
+    ],
+    "upperlower": [
+        {
+            "Bench Press" : {
+                "title":"Bench Press",
+                "details": [3,"8-12"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Barbell Row" : {
+                "title":"Barbell Row",
+                "details" : [3,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Seated Overhead Dumbbell Press" : {
+                "title":"Seated Overhead Dumbbell Press",
+                "details" : [3,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Pec Dec" : {
+                "title":"Pec Dec",
+                "details" : [2,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "V-Bar Lat Pull Down" : {
+                "title":"V-Bar Lat Pull Down",
+                "details" : [2,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Side Lateral Raise" : {
+                "title":"Seated Overhead Dumbbell Press",
+                "details" : [2,"12-15"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Cable Tricep Extensions " : {
+                "title":"Cable Tricep Extensions ",
+                "details" : [3,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Cable Curls" : {
+                "title":"Cable Curls ",
+                "details" : [3,"8-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            }
+        },
+        {
+            "Squats" : {
+                "title":"Squats",
+                "details": [5,"5"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Stiff Leg Deadlifts" : {
+                "title":"Stiff Leg Deadlifts",
+                "details" : [3,"5"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Standing Calf Raise" : {
+                "title":"Standing Calf Raise",
+                "details" : [3,"10-15"],
+                "image" :  "assets/images/deadlift.jpg"
+            }, 
+            "Leg Extensions" : {
+                "title":"Leg Extensions",
+                "details": [2,"10-12"],
+                "image":  "assets/images/deadlift.jpg"
+            },
+            "Leg Curl" : {
+                "title":"Leg Curl",
+                "details" : [2,"10-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Seated Calf Raise" : {
+                "title":"Seated Calf Raise",
+                "details" : [2,"10-15"],
+                "image" :  "assets/images/deadlift.jpg"
+            },
+            "Cable Crunch" : {
+                "title":"Cable Crunch",
+                "details" : [3,"10-12"],
+                "image" :  "assets/images/deadlift.jpg"
+            }
+        }  
+    ]
+}

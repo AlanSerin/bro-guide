@@ -1,0 +1,19 @@
+.footer{
+    text-align: center;
+    color: darkgrey;
+    font-size: .9rem;
+}
+.icon{
+    border-radius: 12px;
+    background-color: #81c2d8;
+    color: #fcf8ec;
+    padding: .4rem;
+}
+.list{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    background-color: white;
+}
+ion-item{
+    --background: white;
+}

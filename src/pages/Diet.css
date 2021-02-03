@@ -1,0 +1,30 @@
+.dflex{
+    display: flex;
+}
+.thicc{
+    width: 60%;
+}
+.info{
+    font-size: 1.6rem;
+    color: gray;
+}
+.macroborder{
+    /* background-color: #88bfd1; */
+    /* color: #88bfd1; */
+    border-radius: 12px;
+     border: 1px solid #eee; 
+    padding: 0.8rem;
+    box-shadow: 1px 2px 12px rgb(226, 226, 226);
+}
+
+.caloriecard{
+    background-image: linear-gradient(to bottom right, #6da7bb, #90d6ee);
+    color: white;
+}
+
+/* .addmeal{
+    --color: #6ca3b6;
+} */
+.macrobar{
+    --progress-background: #76b5ca;
+}

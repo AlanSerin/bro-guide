@@ -1,0 +1,40 @@
+.startTitle{
+    height: 25vh;
+    background-color: #7ec1d8;
+}
+.titleCalc{
+    color: white;
+}
+.parent{
+    position:absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+    top: 10%;
+    width: 90%;
+}
+.statcard{
+    padding: .5rem .5rem;
+    width: 70%;
+    transform: translate(22%, 0);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 12px;
+    box-shadow: 1px 2px 12px rgb(212, 212, 212);
+}
+.worktypecard{
+    /* height: 30vh; */
+    background-color: white;
+    border-radius: 22px;
+    box-shadow: 1px 2px 12px rgb(212, 212, 212);;
+}
+.buttons{
+    padding-top: 1rem;
+    display: flex;
+    justify-content:space-between;
+}
+
+.inndercarddiv{
+    /* position: relative;
+    top:30%; */
+    padding: 4rem 2rem;
+}
